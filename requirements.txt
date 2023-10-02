@@ -1,0 +1,6 @@
+regex
+pandas
+numpy
+emoji
+matplotlib
+wordcloud
