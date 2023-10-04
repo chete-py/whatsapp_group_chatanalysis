@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 
+#amending date to a palatable format
 date_time_pattern = r'\[(\d{2}/\d{2}/\d{4}, \d{2}:\d{2}:\d{2})\](?: ~\s)?([\w\s]+):'
 message_pattern = r'(\d+\.\s[\w\s+]+\S*)\s✅?'
 
